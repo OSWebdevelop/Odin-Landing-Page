@@ -151,5 +151,44 @@ body {
   font-weight: 600;
   font-size: 18px;
 }
-
 /* section 3 end */
+
+/* section 4 start */
+.fourth-section {
+  padding: 100px 300px;
+}
+.fourth-section .container {
+  background-color: #3882F6;
+  border-radius: 10px;
+  display: flex;
+  padding: 50px 100px;
+  justify-content: space-between;
+  align-items: center;
+}
+.fourth-section .left-side {
+  color: #f9faf8;
+}
+.fourth-section button {
+  display: flex;
+  align-items: center;
+  color: #f9faf8;
+  font-size: 18px;
+  border-radius: 8px;
+  border: 2px solid #f9faf8;
+  background-color: #3882F6;
+  padding: 10px 30px;
+  height: 40px;
+}
+/* section 4 end */
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  background-color: #1F2937;
+  padding: 20px 300px;
+  color: #e5e7eb;
+  font-size: 18px;
+  gap: 10px;
+}
